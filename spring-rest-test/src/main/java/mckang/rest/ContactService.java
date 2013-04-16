@@ -14,9 +14,8 @@ import mckang.rest.dao.ContactDao;
 import mckang.rest.model.ContactVo;
 
  
-
+//GitHub Test
 @Path("/contact")
-
 public class ContactService {
 
         static ContactDao dao = null;
